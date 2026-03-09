@@ -1,0 +1,12 @@
+font-size = 16
+
+cursor-style = block
+cursor-style-blink = true
+shell-integration-features = no-cursor
+font-family = "SF Mono"
+theme = Material Ocean
+auto-update-channel = "stable"
+
+notify-on-command-finish = unfocused
+notify-on-command-finish-action = no-bell,notify
+notify-on-command-finish-after = 5s
