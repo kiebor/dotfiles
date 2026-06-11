@@ -3,7 +3,8 @@ font-size = 16
 cursor-style = block
 cursor-style-blink = true
 shell-integration-features = no-cursor
-font-family = "SF Mono"
+font-family = "Jetbrains Mono"
+font-style = Bold
 theme = Material Ocean
 auto-update-channel = "stable"
 
